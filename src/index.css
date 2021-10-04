@@ -1,0 +1,122 @@
+html body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+}
+
+textarea{
+    width: 69%;
+    height: 45%;
+    display: flex;
+    margin-left: 17%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    background-color: #fafcfc;
+    padding-top:0.3%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    font-size: 20px;
+    border-color: #8fb3d4;
+    border-style: solid;
+    border-width: 2px;
+    
+}
+::placeholder {
+    color: #8fb3d4;
+    font-size: 30pt;
+  }
+
+
+.first_line{
+    background-color: black;
+    width: 6%;
+    height: 10%;
+    color: white;
+    display: -ms-inline-flexbox;
+}
+#first_element{
+    margin-left: 16%;
+    display: inline-table;
+    width: 6%;
+    height: 10%;
+}
+#backspace{
+    position: fixed;
+    display: -ms-inline-flexbox;
+    height: 20%;
+    width: 12%;
+    margin-left: 0.2%;
+    background-color: black;
+    color: white;
+}
+.second_line{
+    background-color: black;
+    width: 6%;
+    height: 10%;
+    color: white;
+    display: -ms-inline-flexbox;
+
+}
+#second_element{
+    margin-left: 16%;
+    display: -ms-inline-flexbox;
+    width: 6%;
+    height: 10%;
+    background-color: black;   
+    color: white;
+}
+.third_line{
+    background-color: black;
+    width: 6%;
+    height: 10%;
+    color: white;
+    display: -ms-inline-flexbox;
+}
+#third_element{
+    margin-left: 16%;
+    display: inline-flexbox;
+    width: 6%;
+    height: 10%;
+    background-color: black;   
+    color: white;
+}
+#caps{
+    width: 18.2%;
+    -ms-inline-flexbox;
+}
+.fourth_line{
+    background-color: black;
+    width: 6%;
+    height: 10%;
+    color: white;
+    display: -ms-inline-flexbox;
+}
+#fourth_element{
+    margin-left: 16%;
+    display: -ms-inline-flexbox;
+    width: 6%;
+    height: 10%;
+    background-color: black;   
+    color: white;
+}
+#shift{
+    width: 18.2%;
+    display: -ms-inline-flexbox;
+}
+#space{
+    margin-left: 16%;
+    width: 56%;
+    height: 10%;
+    margin-top: 0.2%;
+    background-color: black;   
+    color: white;
+    display: -ms-inline-flexbox;
+}
+#enter{
+    width: 18.2%;
+    height: 10%;
+    background-color: black; 
+    color: white;
+    display: -ms-inline-flexbox;
+}
